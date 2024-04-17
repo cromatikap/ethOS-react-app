@@ -17,8 +17,8 @@ const donorRecipients: DonorRecipient[] = [
     address: '0x0814406b4DA6FAcd3b81E3bC2926830AB4B3F56F'
   },
   {
-    name: 'digitalnomad.eth',
-    description: 'Someone the creator of this app likes',
+    name: 'digitalmonad.eth',
+    description: 'An inspiring creative developer',
     address: '0x4291D303AcBa8337F06f75cDDB5E47000dCef97F'
   },
 ];
